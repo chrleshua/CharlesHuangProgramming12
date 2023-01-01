@@ -9,8 +9,7 @@ public class Quadrant {
         if (x > 0) {
             if (y > 0) {
                 System.out.println("Quadrant 1");
-            } else if {
-                if (y < 0 ) {
+            } else if (y < 0 ) {
                     System.out.println("Quadrant 4");
                 }
             }
